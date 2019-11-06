@@ -1,5 +1,5 @@
 {
-    "name": "jacquestvanzuydam/laravel-firebird",
+    "name": "andrepiacentini/laravel-firebird",
     "description": "A Firebird database package for the Laravel Framework",
     "license": "MIT",
     "version": "1.0.0.0",
@@ -11,11 +11,11 @@
     ],
     "minimum-stability": "dev",
     "require": {
-      "php": ">=5.4.0",
-      "illuminate/support": "5.0.*",
-      "illuminate/container": "5.0.*",
-      "illuminate/database": "5.0.*",
-      "illuminate/events": "5.0.*"
+      "php": ">=7.2.0",
+      "illuminate/support": "6.*",
+      "illuminate/events": "6.*",
+      "illuminate/container": "6.*",
+      "illuminate/database": "6.*"
     },
     "autoload":{
       "psr-0": {
